@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TCPClientCallbackHandler:ClientThread.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tx_recv">
+            </PersistentString>
+            <PersistentString
+               value = "[NSString stringWithUTF8String:recv_data];">
+            </PersistentString>
+            <PersistentString
+               value = "[obj_client_ptr ReadData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__TCPClientCallbackHandler_block_invoke:ClientThread.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[obj_client_ptr ReadData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
